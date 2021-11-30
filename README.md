@@ -14,7 +14,7 @@ This repository contains assignments and practicals of Enterprise Application De
 ###
 ## Practicals
 ###
-| Practical no:      | Title                   |    Practical Date                   |   Status             |
+| Practical no:      | Title                   |    Practical Date                   |   Deadline Date            |
 | :---            |  :---                               | :---                   | :---                   |
-| 1                   | [LAB 1](https://github.com/Rabitachhantyal/EAD/tree/main/Practical/Lab1)       | 25 Nov 2021                   |           Completed        |
+| 1                   | [LAB 1](https://github.com/Rabitachhantyal/EAD/tree/main/Practical/Lab1)       | 25 Nov 2021                   |           2 Dec 2021        |
 
