@@ -22,4 +22,5 @@ This repository contains assignments and practicals of Enterprise Application De
 2 | [LAB 2](https://github.com/Rabitachhantyal/EAD/tree/main/Practical/lab2)       | 29 Nov 2021                   |           6 Dec 2021        |
 3 | [LAB 3](https://github.com/Rabitachhantyal/EAD/tree/main/Practical/Lab3/DesignPattern/SingletonPattern)       | 29 Nov 2021                   |           6 Dec 2021        |
 4 | [LAB 4](https://github.com/Rabitachhantyal/EAD/tree/main/Practical/Lab4/FactoryPattern)       | 6 Dec 2021                   |     13 Dec 2021              |
+5 | [LAB 5](https://github.com/Rabitachhantyal/EAD/tree/main/Practical/Lab5/StudentManagementSystem)       | 13 Jan 2022                   |     20 Jan 2022              |
 
